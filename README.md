@@ -235,26 +235,32 @@ The analysis demonstrates a strong relationship between market sentiment and tra
 
 
 # Future Additions (Due to limited limit I can not add it)
-Predictive Modeling
+1)Predictive Modeling
 
 Built a Random Forest classifier to predict:
 
 profitable vs non-profitable trades
-Anomaly Detection
+
+
+2)Anomaly Detection
 
 Applied Isolation Forest to detect:
 
 abnormal trades
 unusual losses
 extreme profit events
-Time-Series Trend Analysis
+
+
+3)Time-Series Trend Analysis
 
 Analyzed:
 
 rolling profitability
 daily activity
 sentiment-driven market regimes
-Strategy Recommendation Engine
+
+
+4)Strategy Recommendation Engine
 
 Created sentiment-aware rule-based trading recommendations.
 
